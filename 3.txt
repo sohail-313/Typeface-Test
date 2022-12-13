@@ -1,0 +1,11 @@
+Design a datastore to save monitoring data of a service. Assume the service has 100 APIs and there are 1000 users who are roughly making 1 million requests per day. Some of the sample queries that will be performed on this datastore
+
+- Get the API with maximum average response time across the users.
+- Get the API with maximum average response time for each user.
+- Get error percentage of each API in buckets of 1 hours for 24 hours.
+
+
+API stands for Application Programming Interface
+
+
+we need to install softwares
